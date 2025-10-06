@@ -18,13 +18,13 @@ A Python program that solves any 9x9 Sudoku puzzle using the backtracking algori
 
 Implementing recursion and backtracking
 
-How to validate Sudoku constraints programmatically
+-How to validate Sudoku constraints programmatically
 
-Debugging nested loops and logical conditions
+-Debugging nested loops and logical conditions
 
-Structuring Python functions for readability
+-Structuring Python functions for readability
 
-Here is the code snippet-
+### Here is the code snippet-
 
 <img width="918" height="646" alt="Screenshot 2025-10-06 162256" src="https://github.com/user-attachments/assets/db13783f-8f0b-4ed7-984f-7ca03caa2ce4" />
 
