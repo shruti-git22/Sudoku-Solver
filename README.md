@@ -1,6 +1,6 @@
-# TITLE : Sudoku Solver in Python 🧩 
+# TITLE : Sudoku Solver in Python 
 
-## 🚀 Overview
+## Overview
 
 - The solver uses a recursive backtracking approach, which systematically tries all possible numbers in each empty cell until it finds a valid configuration that satisfies Sudoku constraints.
 - This project is a Sudoku Solver built using Python and the Backtracking Algorithm.
@@ -30,11 +30,11 @@ This process continues until the entire grid is filled or no valid configuration
 ## Validation Function: is_valid_move()
 
 Checks whether placing a number in a given cell follows Sudoku constraints:
-✅ Row Check: The number must not already appear in the current row.
+1.Row Check: The number must not already appear in the current row.
 
-✅ Column Check: The number must not appear in the current column.
+2.Column Check: The number must not appear in the current column.
 
-✅ 3×3 Subgrid Check: The number must not appear in the 3×3 box corresponding to that cell.
+3×3 Subgrid Check: The number must not appear in the 3×3 box corresponding to that cell.
 
 ## Features
 
@@ -71,8 +71,9 @@ Implementing recursion and backtracking
 
 ## Technical Details :
 Code-
-[Jupyter Notebook](https://github.com/shruti-git22/Sudoku-Solver/blob/main/Sudoku_Solver.ipynb)
 
-[Python Code](https://github.com/shruti-git22/Sudoku-Solver/blob/main/Sudoku.py)
+[📄Jupyter Notebook](https://github.com/shruti-git22/Sudoku-Solver/blob/main/Sudoku_Solver.ipynb)
+
+[📄Python Code](https://github.com/shruti-git22/Sudoku-Solver/blob/main/Sudoku.py)
 
 
