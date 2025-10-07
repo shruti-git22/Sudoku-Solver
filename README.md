@@ -72,6 +72,7 @@ Implementing recursion and backtracking
 ## Technical Details :
 Code-
 [Jupyter Notebook](https://github.com/shruti-git22/Sudoku-Solver/blob/main/Sudoku_Solver.ipynb)
+
 [Python Code](https://github.com/shruti-git22/Sudoku-Solver/blob/main/Sudoku.py)
 
 
